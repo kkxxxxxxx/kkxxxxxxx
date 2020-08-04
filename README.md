@@ -22,7 +22,6 @@
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-3168de?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=ffffff)](https://ansible.com/)
-
 [![](https://img.shields.io/badge/-Jenkins-365164?style=flat-square&logo=jenkins&logoColor=ffffff)](https://jenkins.io/)
 [![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
 [![](https://img.shields.io/badge/-Grafana-F79E26?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
@@ -32,7 +31,6 @@
 [![](https://img.shields.io/badge/-RabbitMQ-F25603?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://rabbitmq.com/)
 [![](https://img.shields.io/badge/-Yarn-2a8ab6?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)](https://mysql.com/)
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![](https://img.shields.io/badge/-PostgreSQL-32668f?style=flat-square&logo=PostgreSQL&logoColor=white)](https://postgresql.org/)
