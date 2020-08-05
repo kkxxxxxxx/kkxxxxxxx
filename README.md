@@ -1,8 +1,12 @@
-<img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
+<img align="center" width="50%" height="" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
 
-### Hi there, I'm KK. 👋
+### <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/earth.gif" width="24px">
 
-#### Platform&Tools
+ ![](https://komarev.com/ghpvc/?username=kkxxxxxxx) <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/giphy.gif" width="29px">
+
+<img align="right" width="150" height="150" src="https://avatars2.githubusercontent.com/u/2821523?s=460&v=4">
+
+### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -14,11 +18,10 @@
 [![](https://img.shields.io/badge/Blackberry-Q10-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
 
 [![](https://img.shields.io/badge/Shell-Zsh-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://zsh.org/)
-[![](https://img.shields.io/badge/Git%20Gui-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=ffffff)](https://www.gitkraken.com/)
+[![](https://img.shields.io/badge/Gitgui-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=ffffff)](https://www.gitkraken.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
 [![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff)](https://www.notion.com/)
-
 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org/)
@@ -32,14 +35,14 @@
 [![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://www.ubuntu.com/)
 [![](https://img.shields.io/badge/-Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white)](https://www.deepin.org/)
 
----
+### Skill
 [![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://jira.atlassian.com/)
 [![](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence/)
 [![](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://www.atlassian.com/software/trello/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://guides.github.com/features/mastering-markdown/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://ansible.com/)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://www.golang.org/)
+[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://ansible.com/)
 [![](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/)
 [![](https://img.shields.io/badge/-GiLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)](https://gilab.com/)
@@ -68,26 +71,46 @@
 [![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://mongodb.com/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)](https://redis.io/)
 
-#### Console&Game
+### Console&Game
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/)
 [![](https://img.shields.io/badge/Battle.net-00AEFF?style=flat-square&logo=battle.net&logoColor=ffffff)](https://battle.net)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkxxxxxxx&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kkxxxxxxx&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true" />
 
-```
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning ...
 - 👯 I'm looking to collaborate on ...
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
+
+
+<!--
+<br>**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{kkxxxxxxx}/count.svg)
+-->
+
+
+<!--
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+</td>
+<td valign="top" width="50%">
+
+</td>
+</tr>
+</table>
+
+--->
 
 <!--
 **kkxxxxxxx/kkxxxxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hi there, I'm KK. 👋
 
 Here are some ideas to get you started:
 
