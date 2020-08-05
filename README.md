@@ -1,9 +1,8 @@
-<img align="center" width="70%" height="" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
+<img align="middle" width="70%" height="" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
 
 ### <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/hi.gif" width="29px"> ![](https://komarev.com/ghpvc/?username=kkxxxxxxx) <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/earth.gif" width="24px">
 
-<img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/giphy.gif" width="29px">
-<img align="right" width="150" height="150" src="https://avatars2.githubusercontent.com/u/2821523?s=460&v=4">
+<img align="" width="150px" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/giphy.gif"> <img align="right" width="150" height="150" src="https://avatars2.githubusercontent.com/u/2821523?s=460&v=4">
 
 ### Platform&Device
 [![](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
