@@ -54,10 +54,10 @@
 [![](https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=helm&logoColor=ffffff)](https://helm.sh/)
 [![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
 [![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
-[![](https://img.shields.io/badge/-Pi%20Hole-F60D1A?style=flat-square&logo=pi-hole&logoColor=ffffff)](https://pi-hole.net/)
 [![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=ffffff)](https://insomnia.rest/)
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=ffffff)](https://elastic.co/)
 
+[![](https://img.shields.io/badge/-Pi%20Hole-F60D1A?style=flat-square&logo=pi-hole&logoColor=ffffff)](https://pi-hole.net/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=ffffff)](https://apache.org/)
 [![](https://img.shields.io/badge/-RabbitMQ-F25603?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://rabbitmq.com/)
