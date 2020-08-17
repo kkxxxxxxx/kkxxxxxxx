@@ -1,4 +1,4 @@
-<img align="middle" width="70%" height="" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
+<img align="middle" width="80%" height="" src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/cover.png"></img>
 
 ### <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/hi.gif" width="29px"> ![](https://komarev.com/ghpvc/?username=kkxxxxxxx) <img src="https://github.com/kkxxxxxxx/kkxxxxxxx/raw/master/earth.gif" width="24px">
 
