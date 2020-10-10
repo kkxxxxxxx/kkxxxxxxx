@@ -53,8 +53,8 @@
 [![](https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=helm&logoColor=ffffff)](https://helm.sh/)
 [![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
 [![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
-[![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=ffffff)](https://insomnia.rest/)
 [![](https://img.shields.io/badge/-Loki-EE4623?style=flat-square&logo=logstash&logoColor=ffffff)](https://grafana.com/oss/loki/)
+[![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=ffffff)](https://insomnia.rest/)
 
 [![](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://jira.atlassian.com/)
 [![](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence/)
