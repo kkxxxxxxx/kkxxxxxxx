@@ -11,8 +11,8 @@
 
 [![](https://img.shields.io/badge/Synology-DS718+-0078D6?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.com/)
 [![](https://img.shields.io/badge/TV-4K-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Mac-mini-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iPhone-X-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Mac-Mini-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-Mini-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 <!---[![](https://img.shields.io/badge/Blackberry-Q10-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)--->
 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
