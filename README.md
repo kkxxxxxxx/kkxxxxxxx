@@ -37,6 +37,7 @@
 [![](https://img.shields.io/badge/-Pi%20Hole-F60D1A?style=flat-square&logo=pi-hole&logoColor=ffffff)](https://pi-hole.net/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=ffffff)](https://apache.org/)
+[![](https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logo=apacherocketmq&logoColor=ffffff)](https://rocketmq.apache.org)
 [![](https://img.shields.io/badge/-RabbitMQ-F25603?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://rabbitmq.com/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)](https://mysql.com/)
 [![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
