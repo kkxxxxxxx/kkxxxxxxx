@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/Mac-Mini-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPhone-Mini-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/NUC-11-0071C5?style=flat-square&logo=Intel&logoColor=ffffff)](https://www.intel.com/)
-[![](https://img.shields.io/badge/Synology-DS718+-0078D6?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.com/)
+[![](https://img.shields.io/badge/DS-718+-0078D6?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.com/)
 
 [![](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org/)
