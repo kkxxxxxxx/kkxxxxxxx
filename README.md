@@ -6,6 +6,11 @@
 
 ### Platform&Device
 
+[![](https://img.shields.io/badge/VM-vBox-183A61?style=flat-square&logo=VirtualBox&logoColor=183A61)](https://www.virtualbox.org/)
+[![](https://img.shields.io/badge/VM-Qemu-FF6600?style=flat-square&logo=QEMU&logoColor=FF6600)](https://www.qemu.org/)
+[![](https://img.shields.io/badge/VM-Esxi-607078?style=flat-square&logo=VMware&logoColor=)](https://www.vmware.com/)
+[![](https://img.shields.io/badge/VM-PVE-E57000?style=flat-square&logo=Proxmox&logoColor=E57000)](https://pve.proxmox.com/)
+
 [![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Macintosh-Ventura-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=0078D4)](https://www.microsoft.com/windows/get-windows-11)
@@ -22,23 +27,6 @@
 [![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=57A143)](https://neovim.io/)
 [![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=Notion&logoColor=000000)](https://www.notion.com/)
 [![](https://img.shields.io/badge/MD-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=483699)](https://www.notion.com/)
-
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org/)
-[![](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)](https://www.kde.org/)
-[![](https://img.shields.io/badge/-xFce-2284F2?style=flat-square&logo=xfce&logoColor=white)](https://www.xfce.org/)
-[![](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)](https://www.manjaro.org/)
-[![](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux%20mint&logoColor=white)](https://www.linuxmint.com/)
-[![](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
-[![](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=alpine%20linux&logoColor=white)](https://www.alpinelinux.org/)
-[![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
-[![](https://img.shields.io/badge/-Debian-AB1D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://www.ubuntu.com/)
-
-[![](https://img.shields.io/badge/VM-vBox-183A61?style=flat-square&logo=VirtualBox&logoColor=183A61)](https://www.virtualbox.org/)
-[![](https://img.shields.io/badge/VM-Qemu-FF6600?style=flat-square&logo=QEMU&logoColor=FF6600)](https://www.qemu.org/)
-[![](https://img.shields.io/badge/VM-Esxi-607078?style=flat-square&logo=VMware&logoColor=607078)](https://www.vmware.com/)
-[![](https://img.shields.io/badge/VM-PVE-E57000?style=flat-square&logo=Proxmox&logoColor=E57000)](https://pve.proxmox.com/)
 
 ### Skill&Tools
 
@@ -76,6 +64,18 @@
 [![](https://img.shields.io/badge/-GiLab-FCA121?style=flat-square&logo=gitlab&logoColor=ffffff)](https://gilab.com/)
 [![](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=ffffff)](https://gitea.io/)
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)](https://subversion.apache.org/)
+
+[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org/)
+[![](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=white)](https://www.kde.org/)
+[![](https://img.shields.io/badge/-xFce-2284F2?style=flat-square&logo=xfce&logoColor=white)](https://www.xfce.org/)
+[![](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)](https://www.manjaro.org/)
+[![](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux%20mint&logoColor=white)](https://www.linuxmint.com/)
+[![](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
+[![](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=alpine%20linux&logoColor=white)](https://www.alpinelinux.org/)
+[![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
+[![](https://img.shields.io/badge/-Debian-AB1D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://www.ubuntu.com/)
 
 ### Console&Game
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](https://www.nintendo.com/)
