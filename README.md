@@ -23,7 +23,7 @@
 
 [![](https://img.shields.io/badge/Shell-Zsh-FFD500?style=flat-square&logo=GNU%20Bash&logoColor=FFD500)](https://zsh.org/)
 [![](https://img.shields.io/badge/Git-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=179287)](https://www.gitkraken.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/ED-Neovim-57A143?style=flat-square&logo=neovim&logoColor=57A143)](https://neovim.io/)
 [![](https://img.shields.io/badge/NB-Notion-000000?style=flat-square&logo=Notion&logoColor=000000)](https://www.notion.com/)
 [![](https://img.shields.io/badge/MD-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=483699)](https://www.notion.com/)
