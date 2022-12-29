@@ -49,7 +49,7 @@
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=black)](https://ansible.com/)
 [![](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=black)](https://terraform.io/)
 [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![](https://img.shields.io/badge/-GiLab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](https://gilab.com/)
+[![](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](https://gilab.com/)
 [![](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=black)](https://gitea.io/)
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=black)](https://subversion.apache.org/)
 [![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=black)](https://insomnia.rest/)
