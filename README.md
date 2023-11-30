@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/Mac-Mini-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPhone-Mini-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/NUC-11-0071C5?style=flat-square&logo=Intel&logoColor=0071C5)](https://www.intel.com/)
-[![](https://img.shields.io/badge/DS-718+-0078D4?style=flat-square&logo=Synology&logoColor=0078D4)](https://www.synology.com/)
+[![](https://img.shields.io/badge/DS-720+-0078D4?style=flat-square&logo=Synology&logoColor=0078D4)](https://www.synology.com/)
 
 [![](https://img.shields.io/badge/Shell-Zsh-FFD500?style=flat-square&logo=GNU%20Bash&logoColor=FFD500)](https://zsh.org/)
 [![](https://img.shields.io/badge/Git-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=179287)](https://www.gitkraken.com/)
