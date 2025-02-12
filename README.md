@@ -8,11 +8,11 @@
 
 [![](https://img.shields.io/badge/VM-vBox-183A61?style=flat-square&logo=VirtualBox&logoColor=183A61)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/VM-Qemu-FF6600?style=flat-square&logo=QEMU&logoColor=FF6600)](https://www.qemu.org/)
-[![](https://img.shields.io/badge/VM-Esxi-607078?style=flat-square&logo=VMware&logoColor=)](https://www.vmware.com/)
+[![](https://img.shields.io/badge/VM-ESXi-607078?style=flat-square&logo=VMware&logoColor=)](https://www.vmware.com/)
 [![](https://img.shields.io/badge/VM-PVE-E57000?style=flat-square&logo=Proxmox&logoColor=E57000)](https://pve.proxmox.com/)
 
 [![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Macintosh-Ventura-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Macintosh--000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=0078D4)](https://www.microsoft.com/windows/get-windows-11)
 
 [![](https://img.shields.io/badge/TV-4K-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
@@ -64,7 +64,7 @@
 [![](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
 
 [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=black)](https://jenkins.io/)
-[![](https://img.shields.io/badge/-Drone-212121?style=flat-square&logo=drone&logoColor=white)](https://drone.io/)
+[![](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=black)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=black)](https://goharbor.io/)
