@@ -18,15 +18,16 @@
 [![](https://img.shields.io/badge/TV-4K-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Mac-Mini-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPhone-Mini-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
-[![](https://img.shields.io/badge/NUC-11-0071C5?style=flat-square&logo=Intel&logoColor=0071C5)](https://www.intel.com/)
+[![](https://img.shields.io/badge/NUC-13-0071C5?style=flat-square&logo=Intel&logoColor=0071C5)](https://www.intel.com/)
 [![](https://img.shields.io/badge/DS-720+-0078D4?style=flat-square&logo=Synology&logoColor=0078D4)](https://www.synology.com/)
 
 [![](https://img.shields.io/badge/Shell-Zsh-FFD500?style=flat-square&logo=GNU%20Bash&logoColor=FFD500)](https://zsh.org/)
+[![](https://img.shields.io/badge/Terminal-Ghostty-FFD500?style=flat-square&logo=GNU%20Bash&logoColor=FFD500)](https://ghostty.org/)
 [![](https://img.shields.io/badge/Git-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=179287)](https://www.gitkraken.com/)
 [![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/ED-Neovim-57A143?style=flat-square&logo=neovim&logoColor=57A143)](https://neovim.io/)
+[![](https://img.shields.io/badge/ED-NeoVIM-57A143?style=flat-square&logo=neovim&logoColor=57A143)](https://neovim.io/)
 [![](https://img.shields.io/badge/NB-Notion-000000?style=flat-square&logo=Notion&logoColor=000000)](https://www.notion.com/)
-[![](https://img.shields.io/badge/WiKi-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=483699)](https://www.notion.com/)
+[![](https://img.shields.io/badge/WiKi-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=483699)](https://www.obsidian.md/)
 
 ### Skill&Tools
 
@@ -38,7 +39,6 @@
 [![](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux%20mint&logoColor=black)](https://www.linuxmint.com/)
 [![](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali%20Linux&logoColor=black)](https://www.kali.org/)
 [![](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=alpine%20linux&logoColor=black)](https://www.alpinelinux.org/)
-[![](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=)](https://www.centos.org/)
 [![](https://img.shields.io/badge/-Debian-AB1D33?style=flat-square&logo=debian&logoColor=black)](https://www.debian.org/)
 [![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=black)](https://www.ubuntu.com/)
 
@@ -50,9 +50,9 @@
 [![](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=black)](https://terraform.io/)
 [![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black)](https://gilab.com/)
+[![](https://img.shields.io/badge/-Forgejo-609926?style=flat-square&logo=forgejo&logoColor=black)](https://forgejo.org/)
 [![](https://img.shields.io/badge/-Gitea-609926?style=flat-square&logo=gitea&logoColor=black)](https://gitea.io/)
 [![](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=black)](https://subversion.apache.org/)
-[![](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=black)](https://insomnia.rest/)
 
 [![](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=black)](https://elastic.co/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=black)](https://mysql.com/)
@@ -79,7 +79,11 @@
 [![](https://img.shields.io/badge/-RocketMQ-D77310?style=flat-square&logo=apacherocketmq&logoColor=black)](https://rocketmq.apache.org)
 [![](https://img.shields.io/badge/-RabbitMQ-F25603?style=flat-square&logo=rabbitmq&logoColor=black)](https://rabbitmq.com/)
 
+[![](https://img.shields.io/badge/-Claude-F25603?style=flat-square&logo=Anthropic&logoColor=black)](https://anthropic.com/)
+[![](https://img.shields.io/badge/-ChatGPT-F25603?style=flat-square&logo=OpenAI&logoColor=black)](https://openai.com/)
+
 ### Console&Game
+
 [![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=black)](https://www.nintendo.com/)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/)
 [![](https://img.shields.io/badge/Battle.net-00AEFF?style=flat-square&logo=battle.net&logoColor=black)](https://battle.net)
@@ -93,12 +97,10 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-
 <!--
 <br>**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{kkxxxxxxx}/count.svg)
 -->
-
 
 <!--
 
