@@ -6,14 +6,13 @@
 
 ### Platform&Device
 
+[![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Macintosh--000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
+
 [![](https://img.shields.io/badge/VM-vBox-183A61?style=flat-square&logo=VirtualBox&logoColor=183A61)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/VM-Qemu-FF6600?style=flat-square&logo=QEMU&logoColor=FF6600)](https://www.qemu.org/)
 [![](https://img.shields.io/badge/VM-ESXi-607078?style=flat-square&logo=VMware&logoColor=)](https://www.vmware.com/)
 [![](https://img.shields.io/badge/VM-PVE-E57000?style=flat-square&logo=Proxmox&logoColor=E57000)](https://pve.proxmox.com/)
-
-[![](https://img.shields.io/badge/Linux-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Macintosh--000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=0078D4)](https://www.microsoft.com/windows/get-windows-11)
 
 [![](https://img.shields.io/badge/TV-4K-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Mac-Mini-000000?style=flat-square&logo=apple&logoColor=000000)](https://www.apple.com/)
@@ -26,8 +25,6 @@
 [![](https://img.shields.io/badge/Git-GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=179287)](https://www.gitkraken.com/)
 [![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/ED-NeoVIM-57A143?style=flat-square&logo=neovim&logoColor=57A143)](https://neovim.io/)
-[![](https://img.shields.io/badge/NB-Notion-000000?style=flat-square&logo=Notion&logoColor=000000)](https://www.notion.com/)
-[![](https://img.shields.io/badge/WiKi-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=483699)](https://www.obsidian.md/)
 
 ### Skill&Tools
 
@@ -35,6 +32,7 @@
 [![](https://img.shields.io/badge/-Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=black)](https://www.gnome.org/)
 [![](https://img.shields.io/badge/-KDE-1D99F3?style=flat-square&logo=kde&logoColor=black)](https://www.kde.org/)
 [![](https://img.shields.io/badge/-xFce-2284F2?style=flat-square&logo=xfce&logoColor=black)](https://www.xfce.org/)
+[![](https://img.shields.io/badge/-Omarchy-35BF5C?style=flat-square&logo=omarchy&logoColor=black)](https://www.omarchy.org/)
 [![](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=black)](https://www.manjaro.org/)
 [![](https://img.shields.io/badge/-Mint-87CF3E?style=flat-square&logo=linux%20mint&logoColor=black)](https://www.linuxmint.com/)
 [![](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=Kali%20Linux&logoColor=black)](https://www.kali.org/)
