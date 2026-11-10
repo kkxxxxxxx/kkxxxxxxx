@@ -78,7 +78,7 @@
 [![](https://img.shields.io/badge/-RabbitMQ-F25603?style=flat-square&logo=rabbitmq&logoColor=black)](https://rabbitmq.com/)
 
 [![](https://img.shields.io/badge/-Claude-F25603?style=flat-square&logo=Anthropic&logoColor=black)](https://anthropic.com/)
-[![](https://img.shields.io/badge/-ChatGPT-F25603?style=flat-square&logo=OpenAI&logoColor=black)](https://openai.com/)
+[![](https://img.shields.io/badge/-ChatGPT-F25603?style=flat-square&logo=chatgpt&logoColor=black)](https://openai.com/)
 
 ### Console&Game
 
